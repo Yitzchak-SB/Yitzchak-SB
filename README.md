@@ -26,7 +26,7 @@ Hi I'm Yitzchak Siegel-Bareket, a Full-stack Developer from Binyamina, Israel. <
 I always had the passion for solving problems, creating and designing. for many years I channeled my passion to the culinary world (as a chef, owner and manager) and to the literary field (as a B.A. graduate), Last January I experienced in some coding, and since then I never looked back. <br /><br />
 I completed a Full-Stack bootcamp at ITC (Israel Tech Challenge) and had an amazing 3-month internship at Cellebrite in which I developed a whole program from scratch all the way to production. <br /><br />
 I believe that finding success is not a sprint but a marathon, so this is only the beginning and I'm super excited about my future.  
-  
+
 
 ### 📫 How to reach me:
 <a href="https://www.facebook.com/itzikss"> Facebook </a> | <a href="https://www.linkedin.com/in/yitzchak-siegel-bareket/"> LinkedIn </a>
@@ -120,3 +120,10 @@ Git
 
 ### 🏈 Fun fact:
 I played six seasons as a LB for the Jerusalem 'Big Blue' Lions, in my final three seasons we won the IFL championship 🏆🏆🏆
+
+
+
+### 🔭 I’m currently working on:
+
+Being in the job search process, I decided to create a program to help organize my process. So I'm working on a program that would let you know when a position in the users field is open in each of the companies he selected. I hope soon to finish the MVP and publish the program into production.
+  
