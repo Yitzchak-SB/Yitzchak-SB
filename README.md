@@ -34,18 +34,21 @@ Facebook | LinkedIn
 ### 💻 Languages and Tools:
 <div style="width:100%;display:flex;justify-content:space-around;align-items:center;">
 
+<div style="width:100%;display:flex;justify-content:center;align-items:center;"> 
 <img alt="HTML" src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<p>HTML</p>
+</div>
 <img alt="css" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/>
 <img alt="JavaScript" alt="React" src="https://img.icons8.com/ultraviolet/40/000000/react.png"/>
+<img alt="Python" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img alt="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img alt="PostgreSQL" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img alt="MySql" src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/>
+<img alt="AWS" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+<img alt="Linux" src="https://img.icons8.com/color/48/000000/linux.png"/>
 
-<img alt="MySql"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img alt="Angular"  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img alt="scss"  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-React  PostgreSQL MySql JavaScript Python HTML css AWS Linux 
+</div>
 
 ### 🏈 Fun fact:
 I played six seasons as a LB for the Jerusalem 'Big Blue' Lions, in the last three of them we won the IFL championship 🏆🏆🏆
