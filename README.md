@@ -13,16 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Yitzchak Siegel-Bareket 👋
+<h1 align="center"> Hi there, I'm Yitzchak Siegel-Bareket 👋 </h1>
 
-## I'm a Full-Stack Developer
 
-## 👯 I’m looking for a junior full-stack position
+
+<h3 align="center"> 👯 I’m looking for a junior full-stack position </h3>
 
 
 ### 💬 A little bit about me:
 
-Hi I'm Yitzchak Siegel-Bareket, a 32 years old Fullstack Developer from Israel Binyamina. 
+Hi I'm Yitzchak Siegel-Bareket, a Fullstack Developer from Binyamina, Israel. 
 I always had the passion for solving problems, creating and designing. for many years i channeld my passion to the culinary world (as a chef, owner and manager) and to the lituaray field (as a B.A. graduate). Last January i exprinced some coding, and since then i never looked back. 
 I completed a FullStack bootcamp at ITC (Isreal Tech Chalenge) and had an amazing 3-month internship at Cellebrite in which i develped a whole program from scratch all the way to production. 
 I belive that finding success is not a sprint but a marathon, so this is only the begining and i'm super exicted about my future.  
