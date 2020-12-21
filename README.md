@@ -32,7 +32,7 @@ I belive that finding success is not a sprint but a marathon, so this is only th
 
 
 ### 💻 Languages and Tools:
-<div style="width:100%;display:flex;justify-content:space-around;align-items:center;">
+<div style="width:100%;display:flex;justify-content:space-around;align-items:center;flex-direction:row">
 
 <div style="width:100%;display:flex;justify-content:center;align-items:center;"> 
 <img alt="HTML" src="https://img.icons8.com/color/48/000000/html-5.png"/>
