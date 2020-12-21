@@ -43,6 +43,9 @@ I belive that finding success is not a sprint but a marathon, so this is only th
    <td>
 <img alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/>
    </td>
+  <td>
+   <img alt="NodeJS" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  </td>
    <td>
 <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png"/>
    </td>
@@ -83,6 +86,9 @@ CSS
    <td>
 JavaScript
    </td>
+ <td>
+  NodeJS
+ </td>
    <td>
 Python
    </td>
