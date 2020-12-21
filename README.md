@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 
 ### 💬 A little bit about me:
 
-Hi I'm Yitzchak Siegel-Bareket, a Fullstack Developer from Binyamina, Israel. 
-I always had the passion for solving problems, creating and designing. for many years i channeld my passion to the culinary world (as a chef, owner and manager) and to the lituaray field (as a B.A. graduate). Last January i exprinced some coding, and since then i never looked back. 
-I completed a FullStack bootcamp at ITC (Isreal Tech Chalenge) and had an amazing 3-month internship at Cellebrite in which i develped a whole program from scratch all the way to production. 
-I belive that finding success is not a sprint but a marathon, so this is only the begining and i'm super exicted about my future.  
+Hi I'm Yitzchak Siegel-Bareket, a Full-stack Developer from Binyamina, Israel. 
+I always had the passion for solving problems, creating and designing. for many years I channeled my passion to the culinary world (as a chef, owner and manager) and to the literary field (as a B.A. graduate). Last January I experienced some coding, and since then I never looked back. 
+I completed a Full-Stack bootcamp at ITC (Israel Tech Challenge) and had an amazing 3-month internship at Cellebrite in which I developed a whole program from scratch all the way to production. 
+I believe that finding success is not a sprint but a marathon, so this is only the beginning and I'm super excited about my future.  
+  
 
 ### 📫 How to reach me:
 <a href="https://www.facebook.com/itzikss"> Facebook </a> | <a href="https://www.linkedin.com/in/yitzchak-siegel-bareket/"> LinkedIn </a>
@@ -118,4 +119,4 @@ Git
 
 
 ### 🏈 Fun fact:
-I played six seasons as a LB for the Jerusalem 'Big Blue' Lions, in the last three of them we won the IFL championship 🏆🏆🏆
+I played six seasons as a LB for the Jerusalem 'Big Blue' Lions, in my final three seasons we won the IFL championship 🏆🏆🏆
