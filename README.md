@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ### 💬 A little bit about me:
 
-Hi I'm Yitzchak Siegel-Bareket, a Full-stack Developer from Binyamina, Israel. 
-I always had the passion for solving problems, creating and designing. for many years I channeled my passion to the culinary world (as a chef, owner and manager) and to the literary field (as a B.A. graduate). Last January I experienced some coding, and since then I never looked back. 
-I completed a Full-Stack bootcamp at ITC (Israel Tech Challenge) and had an amazing 3-month internship at Cellebrite in which I developed a whole program from scratch all the way to production. 
+Hi I'm Yitzchak Siegel-Bareket, a Full-stack Developer from Binyamina, Israel. <br /><br />
+I always had the passion for solving problems, creating and designing. for many years I channeled my passion to the culinary world (as a chef, owner and manager) and to the literary field (as a B.A. graduate), Last January I experienced in some coding, and since then I never looked back. <br /><br />
+I completed a Full-Stack bootcamp at ITC (Israel Tech Challenge) and had an amazing 3-month internship at Cellebrite in which I developed a whole program from scratch all the way to production. <br /><br />
 I believe that finding success is not a sprint but a marathon, so this is only the beginning and I'm super excited about my future.  
   
 
