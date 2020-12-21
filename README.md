@@ -56,9 +56,6 @@ I belive that finding success is not a sprint but a marathon, so this is only th
 <img alt="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
    </td>
    <td>
-<img alt="PostgreSQL" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-   </td>
-   <td>
 <img alt="MySql" src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/>
    </td>
    <td>
@@ -97,9 +94,6 @@ React
    </td>
    <td>
 MongoDB
-   </td>
-   <td>
-PostgreSQL
    </td>
    <td>
 MySQL
