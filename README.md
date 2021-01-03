@@ -74,6 +74,9 @@ I believe that finding success is not a sprint but a marathon, so this is only t
    <td>
 <img alt="git" src="https://img.icons8.com/color/48/000000/git.png"/>
    </td>
+  <td>
+<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+   </td>
   </tr>
   <td>
 Html
@@ -113,6 +116,9 @@ Docker
    </td>
    <td>
 Git
+   </td>
+ <td>
+Firebase
    </td>
   </tr>
  </table>
